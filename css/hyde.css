@@ -73,14 +73,31 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  text-decoration: none;
 }
 
+.sidebar a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sidebar a:active {
+  color: #fff;
+  text-decoration: none;
+}
+
+
 /* About section */
-.sidebar-about h1 {
+.sidebar-about h2 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2rem;
 }
 
 /* Sidebar nav */
