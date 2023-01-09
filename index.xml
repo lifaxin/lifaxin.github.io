@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@猿味儿</title>
-    <link>http://lifaxin.github.io/</link>
+    <link>http://coderzh.github.io/</link>
     <description>Recent content on @猿味儿</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Jan 2023 13:19:39 +0800</lastBuildDate><atom:link href="http://lifaxin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Mon, 09 Jan 2023 13:19:39 +0800</lastBuildDate><atom:link href="http://coderzh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://lifaxin.github.io/post/first/</link>
+      <title>使用EventBus实现组件间异步</title>
+      <link>http://coderzh.github.io/post/first/</link>
       <pubDate>Mon, 09 Jan 2023 13:19:39 +0800</pubDate>
       
-      <guid>http://lifaxin.github.io/post/first/</guid>
-      <description>Hugo Generate Blog hei hei hei</description>
+      <guid>http://coderzh.github.io/post/first/</guid>
+      
+        <description>最近新换了工作，刚来比较轻松，所以想自己写几个小工具提升下自己的效率。在开发过程中发现组件的一些通讯问题，如果采用异步的方式，效率能得到很大提升，所以决定使用到EventBus（消息总线）技术，达到异步事件处理的目的。</description>
+      
     </item>
     
   </channel>
